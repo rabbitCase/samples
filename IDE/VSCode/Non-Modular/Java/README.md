@@ -17,9 +17,9 @@ system and unzip to a desired location.
 
 - Clone the sample, open the folder `hellofx` in Visual Studio Code. Open any of the Java file to import the project.
 
-- Open `.vscode/settings.json`, replace the `<JavaFX_lib_path>` to you JavaFX lib folder.
+- Open `.vscode/settings.json`, replace the `<JavaFX_lib_path>` with the path of your JavaFX lib folder. Replace '\\' with '\\\\' or '/' to remove Invalid escape character error when pasting the path.
 
-- Open `.vscode/launch.json`, replace the `<JavaFX_lib_path>` to you JavaFX lib folder.
+- Open `.vscode/launch.json`, replace the `<JavaFX_lib_path>` with the path of your JavaFX lib folder. Replace '\\' with '\\\\' or '/' to remove Invalid escape character error when pasting the path.
 
 #### Run the JavaFX Application
 
