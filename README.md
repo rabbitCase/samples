@@ -6,7 +6,7 @@ OpenJFX Docs Samples
 Description
 ---
 
-This repo contains a collection of HelloFX samples. Each one is a very simple 
+This repository contains a collection of HelloFX samples. Each one is a very simple 
 HelloWorld sample created with JavaFX that can be run with different options and build tools.
 
 The related documentation for each sample can be found [here](https://openjfx.io/openjfx-docs/).
